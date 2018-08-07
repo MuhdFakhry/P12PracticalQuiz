@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P12 Practical Quiz</string>
+    <string-array name="media">
+        <item>facebook</item>
+        <item>twitter</item>
+    </string-array>
+</resources>
